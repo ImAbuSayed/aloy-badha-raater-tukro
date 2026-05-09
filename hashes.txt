@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Aloy Badha Raater Tukro
+
+This log tracks the cryptographic history and versioning for the song **Aloy Badha Raater Tukro** (aloy-badha-raater-tukro).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-10T04:28:39.395312 | `v1` | `56e0ed5187eb6407c9c767dc8c3f330a62692da96815cdd567bd32d82ed83a82` | `8cc081d958c99a8f77a5b39973076c2898fdd0281d379e937b768c9db47babb0` | `2026-05-10_aloy-badha-raater-tukro-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

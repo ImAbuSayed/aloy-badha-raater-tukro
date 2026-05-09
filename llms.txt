@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aloy-badha-raater-tukro/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Aloy Badha Raater Tukro](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aloy-badha-raater-tukro/) |
+| **Get License** | [License this song: Aloy Badha Raater Tukro](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aloy-badha-raater-tukro/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> আঁধারের বুকে জ্বলে আলো, খুঁজে ফেরে শুধু তোমায়
+> নিস্তব্ধ এই রাতের গভীরে, হৃদয় আমার হারায়
+> তোমার ওই চোখের মায়ায়, বন্দী আমার এই মন
+> অপেক্ষার এই প্রহর শেষে, তুমিই যে চিরন্তন
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `56e0ed5187eb6407c9c767dc8c3f330a62692da96815cdd567bd32d82ed83a82` |
 | **Timestamp** | May 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
